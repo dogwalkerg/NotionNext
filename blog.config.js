@@ -158,14 +158,14 @@ const BLOG = {
     {
       name: 'penguinmusic',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://cdn.pixabay.com/download/audio/2021/12/22/audio_9da2a60074.mp3?filename=penguinmusic-modern-chillout-future-calm-12641.mp3',
+      url: 'https://cdn.pixabay.com/download/audio/2021/12/22/audio_9da2a60074.mp3',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
       name: 'My Universe',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://cdn.pixabay.com/download/audio/2023/04/21/audio_8579ca297f.mp3?filename=my-universe-147152.mp3:
+      url: 'https://cdn.pixabay.com/download/audio/2023/04/21/audio_8579ca297f.mp3',
         'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
   ],
