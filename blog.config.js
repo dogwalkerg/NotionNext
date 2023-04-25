@@ -163,10 +163,9 @@ const BLOG = {
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
-      name: '王都グランセル',
+      name: 'My Universe',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
-      cover:
+      url: 'https://cdn.pixabay.com/download/audio/2023/04/21/audio_8579ca297f.mp3?filename=my-universe-147152.mp3:
         'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
   ],
