@@ -1,7 +1,7 @@
 # NotionNext
 1. 准备好你的 [notion.so Key](https://platform.openai.com/account/api-keys);
 2. 点击右侧按钮开始部署：
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%dogwalkerg%NotionNext&env=NOTION_PAGE_ID&project-name=Notion-next-web&repository-name=Notion-Next-bolg)，直接使用 Github 账号登录即可，记得在环境变量页填入 API Key 和[页面访问密码](#配置页面访问密码) CODE；
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdogwalkerg%2FNotionNext&env=NOTION_PAGE_ID&project-name=NotionNext-weblog&repository-name=NotionNext-Weblog)，直接使用 Github 账号登录即可，记得在环境变量页填入 API Key 和[页面访问密码](#配置页面访问密码) CODE；
 <p>
   <a aria-label="GitHub commit activity" href="https://github.com/tangly1024/NotionNext/commits/main" title="GitHub commit activity">
     <img src="https://img.shields.io/github/commit-activity/m/tangly1024/NotionNext?style=for-the-badge"/>
