@@ -165,7 +165,7 @@ const BLOG = {
     {
       name: '苏谭谭 情难断',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://cdn.jsdelivr.net/gh/dogwalkerg/DIYChatGPT2.2/app/icons/stt1lxb.mp3',
+      url: 'https://cdn.jsdelivr.net/gh/dogwalkerg/DIYChatGPT2.2/app/icons/sttqnd.mp3',
       cover:
         'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
